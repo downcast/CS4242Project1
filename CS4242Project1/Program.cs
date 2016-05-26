@@ -28,7 +28,7 @@ namespace CS4242Project1
             
             Console.WriteLine("The goal of the program is to verify the xml file about to be parsed is done correctly.");
             Console.WriteLine("All you have to do is enter a 'behavior' and confirm the correct repsonse as the output.");
-            Console.WriteLine("Let's begin. (enter 9 to get a list of 'behaviors' to enter and see 'tree.png' to see valid responces.");
+            Console.WriteLine("Let's begin. (enter 9 to get a list of 'behaviors' to enter and see 'tree.png' to see valid responses.");
 
             while (!input.ToLower().Equals("quit"))
             {
